@@ -1,3 +1,4 @@
 # letsStart
 This is My First Git Repository.
-Author - PRIYA GUPTA
+<br><B>
+Author</B> - <i> PRIYA GUPTA</i>
